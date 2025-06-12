@@ -71,9 +71,9 @@
 					</div>
 				</div>
 			  	<ul class="slides">
-			   	<li style="background-image: url(images/slide_1.jpg);" data-stellar-background-ratio="0.5"></li>
-			   	<li style="background-image: url(images/slide_2.jpg);" data-stellar-background-ratio="0.5"></li>
-			   	<li style="background-image: url(images/slide_3.jpg);" data-stellar-background-ratio="0.5"></li>
+			   	<li style="background-image: url(https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/images/slide_1.jpg?token=GHSAT0AAAAAADFPKWWNMSYOSQYM62VFXM662CKZCLQ);" data-stellar-background-ratio="0.5"></li>
+			   	<li style="background-image: url(https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/images/slide_2.jpg?token=GHSAT0AAAAAADFPKWWMNEXEWRDNURUPZT3U2CKZDMA);" data-stellar-background-ratio="0.5"></li>
+			   	<li style="background-image: url(https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/images/slide_3.jpg?token=GHSAT0AAAAAADFPKWWMOH62ZBU2PGIJLTDA2CKZDPQ);" data-stellar-background-ratio="0.5"></li>
 			  	</ul>
 
 			</div>
