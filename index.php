@@ -29,29 +29,18 @@
 	<link rel="shortcut icon" href="favicon.ico">
 
 	<link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic|Merriweather:300,400italic,300italic,400,700italic' rel='stylesheet' type='text/css'>
-	
-	<!-- Animate.css -->
-	<link rel="stylesheet" href="css/animate.css">
-	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="css/icomoon.css">
-	<!-- Simple Line Icons -->
-	<link rel="stylesheet" href="css/simple-line-icons.css">
-	<!-- Datetimepicker -->
-	<link rel="stylesheet" href="css/bootstrap-datetimepicker.min.css">
-	<!-- Flexslider -->
-	<link rel="stylesheet" href="css/flexslider.css">
-	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="css/bootstrap.css">
-
-	<link rel="stylesheet" href="css/style.css">
+    
+   	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+    	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+   	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css">
+   	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/css/bootstrap-datetimepicker.min.css">
+   	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/flexslider.min.css">
+    
+    	<link rel="stylesheet" href="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/css/icomoon.css?token=GHSAT0AAAAAADFPKWWNNE6AYRTCFELRATKA2CKZODQ">
+    	<link rel="stylesheet" href="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/css/style.css?token=GHSAT0AAAAAADFPKWWNQCDPS2VARKOIUFB42CKZM6Q">
 
 
-	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script>
-	<!-- FOR IE9 below -->
-	<!--[if lt IE 9]>
-	<script src="js/respond.min.js"></script>
-	<![endif]-->
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
 
 	</head>
 	<body>
@@ -101,7 +90,7 @@
 		</div>
 
 		<div id="fh5co-about" data-section="about">
-			<div class="fh5co-2col fh5co-bg to-animate-2" style="background-image: url(utama.jpg)"></div>
+			<div class="fh5co-2col fh5co-bg to-animate-2" style="background-image: url(https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/utama.jpg?token=GHSAT0AAAAAADFPKWWMXOETNYOJKP4RIAAU2CKZEYA)"></div>
 			<div class="fh5co-2col fh5co-text">
 				<h2 class="heading to-animate">Tentang Kami</h2>
 				<p class="to-animate"><span class="firstcharacter">S</span>elamat datang di Warteg Sukses Bahari. Kami adalah warung makan yang menghadirkan sensasi kuliner tak terlupakan. Dengan hidangan lezat dan sehat, kami berkomitmen untuk memanjakan lidah Anda. Di Warteg Sukses Bahari, kami mengutamakan kualitas bahan dan kepuasan pelanggan. Dengan menggunakan bahan-bahan segar dan pilihan, kami menciptakan menu-menu khas nusantara yang menggugah selera. Tim kami yang ramah dan profesional siap menyambut Anda dengan senyuman. Kami percaya bahwa setiap kunjungan ke Warteg Sukses Bahari harus menjadi pengalaman yang memuaskan. Nikmati santapan lezat dalam suasana hangat yang kami tawarkan.
@@ -162,7 +151,7 @@
 				<div class="row">
 					<div class="fh5co-grid">
 						<div class="fh5co-v-half to-animate-2">
-							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(nasicampur.jpg)"></div>
+							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/nasicampur.jpg?token=GHSAT0AAAAAADFPKWWNIYLLMIBCVR2DTRXG2CKZFHQ)"></div>
 							<div class="fh5co-v-col-2 fh5co-text fh5co-special-1 arrow-left">
 								<h2>Nasi Campur</h2>
 								<span class="pricing">Rp 13.000</span>
@@ -171,7 +160,7 @@
 						</div>
 						<div class="fh5co-v-half">
 							<div class="fh5co-h-row-2 to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(soto.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(soto.jpghttps://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/soto.jpg?token=GHSAT0AAAAAADFPKWWMWZGGOQVGCZBF7E6M2CKZFRA)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-left">
 									<h2>Nasi Soto Ayam</h2>
 									<span class="pricing">Rp 10.000</span>
@@ -179,7 +168,7 @@
 								</div>
 							</div>
 							<div class="fh5co-h-row-2 fh5co-reversed to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(ayamsuwir.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/ayamsuwir.jpg?token=GHSAT0AAAAAADFPKWWMIMHXO33H6NHS72KS2CKZF3A)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-right">
 									<h2>Ayam Suwir</h2>
 									<span class="pricing">Rp 3.000</span>
@@ -190,7 +179,7 @@
 
 						<div class="fh5co-v-half">
 							<div class="fh5co-h-row-2 fh5co-reversed to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(lele.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/lele.jpg?token=GHSAT0AAAAAADFPKWWMM6ADJA2RYC54Q3FO2CKZGEQ)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-right">
 									<h2>Lele Goreng</h2>
 									<span class="pricing">Rp 8.000</span>
@@ -198,7 +187,7 @@
 								</div>
 							</div>
 							<div class="fh5co-h-row-2 to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(ayamkare.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/ayamkare.jpg?token=GHSAT0AAAAAADFPKWWMEPEJOCBVRNPLSX7A2CKZGMQ)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-left">
 									<h2>Kare Ayam</h2>
 									<span class="pricing">Rp 7.000</span>
@@ -207,7 +196,7 @@
 							</div>
 						</div>
 						<div class="fh5co-v-half to-animate-2">
-							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(telurbalado.jpg)"></div>
+							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(https://github.com/sleepingindomie/WebWarteg-WSB/blob/main/telurbalado.jpg?raw=true)"></div>
 							<div class="fh5co-v-col-2 fh5co-text fh5co-special-1 arrow-left">
 								<h2>Telur Balado</h2>
 								<span class="pricing">Rp 3.000</span>
@@ -269,7 +258,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="teh.jpg" class="img-responsive" alt="">
+											<img src="https://github.com/sleepingindomie/WebWarteg-WSB/blob/main/teh.jpg?raw=true" class="img-responsive" alt="">
 										</figure>
 										<div>
 											<h3>Es Teh</h3>
@@ -283,7 +272,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="jeruk.jpg" class="img-responsive" alt="">
+											<img src="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/jeruk.jpg?token=GHSAT0AAAAAADFPKWWM6ZKBVIAWLHH3QXGW2CKZHEQ" class="img-responsive" alt="">
 										</figure>
 										<div>
 											<h3>Es Jeruk</h3>
@@ -297,7 +286,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="sirup.jpg" class="img-responsive" alt="">
+											<img src="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/sirup.jpg?token=GHSAT0AAAAAADFPKWWMZ3ZIEFT3SCI5HXFM2CKZHPA" class="img-responsive" alt="">
 										</figure>
 										<div>
 											<h3>Es Sirup</h3>
@@ -311,7 +300,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="airputih.jpg" class="img-responsive" alt="">
+											<img src="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/airputih.jpg?token=GHSAT0AAAAAADFPKWWMCZQ6XYGJ5GUQQBXO2CKZHZA" class="img-responsive" alt="">
 										</figure>
 										<div>
 											<h3>Air Putih</h3>
@@ -332,7 +321,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="perkedel.jpg" class="img-responsive" alt="">
+											<img src="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/perkedel.jpg?token=GHSAT0AAAAAADFPKWWNZEBACD76BQD4HT4Q2CKZIAQ" class="img-responsive" alt="">
 										</figure>
 										<div>
 											<h3>Perkedel Kentang</h3>
@@ -346,7 +335,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="sop.jpg" class="img-responsive" alt="">
+											<img src="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/sop.jpg?token=GHSAT0AAAAAADFPKWWNIBW4XSPGSJTRX27W2CKZIGQ" class="img-responsive" alt="">
 										</figure>
 										<div>
 											<h3>Sop Ayam</h3>
@@ -360,7 +349,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="kangkung.jpg" class="img-responsive" alt="">
+											<img src="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/kangkung.jpg?token=GHSAT0AAAAAADFPKWWMVWZQGE3XUWY32JLA2CKZIOA" class="img-responsive" alt="">
 										</figure>
 										<div>
 											<h3>Cah Kangkung</h3>
@@ -374,7 +363,7 @@
 								<li>
 									<div class="fh5co-food-desc">
 										<figure>
-											<img src="mustofa.jpg" class="img-responsive" alt="">
+											<img src="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/mustofa.jpg?token=GHSAT0AAAAAADFPKWWMASNXO7F5DRT3WO5K2CKZIUA" class="img-responsive" alt="">
 										</figure>
 										<div>
 											<h3>Kentang Mustofa</h3>
@@ -402,7 +391,7 @@
 			</div>
 		</div>
 
-		<div id="fh5co-events" data-section="events" style="background-image: url(images/slide_2.jpg);" data-stellar-background-ratio="0.5">
+		<div id="fh5co-events" data-section="events" style="background-image: url(https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/images/slide_2.jpg?token=GHSAT0AAAAAADFPKWWNOMSI6M2LNRBAMD7K2CKZI4Q);" data-stellar-background-ratio="0.5">
 			<div class="fh5co-overlay"></div>
 			<div class="container">
 				<div class="row text-center fh5co-heading row-padded">
@@ -473,31 +462,22 @@
 	</div>
 
 
-
-	
-	
-	
-	
-	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
-	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
-	<!-- Bootstrap -->
-	<script src="js/bootstrap.min.js"></script>
-	<!-- Bootstrap DateTimePicker -->
-	<script src="js/moment.js"></script>
-	<script src="js/bootstrap-datetimepicker.min.js"></script>
-	<!-- Waypoints -->
-	<script src="js/jquery.waypoints.min.js"></script>
-	<!-- Stellar Parallax -->
-	<script src="js/jquery.stellar.min.js"></script>
-
-	<!-- Flexslider -->
-	<script src="js/jquery.flexslider-min.js"></script>
-	<script>
+		
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/js/bootstrap-datetimepicker.min.js"></script>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.waypoints/4.0.1/jquery.waypoints.min.js"></script>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"></script>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/jquery.flexslider-min.js"></script>
+    
+    	<script src="raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/js/main.js?token=GHSAT0AAAAAADFPKWWNCJYWXEA4KNQ754EM2CKZNVQ"></script>
+    
+    	<script>
 		$(function () {
-	       $('#date').datetimepicker();
-	   });
+	       $('#date').datetimepicker();
+	   });
 	</script>
 	<!-- Main JS -->
 	<script src="js/main.js"></script>
