@@ -9,7 +9,6 @@
         { "src": "/(.*)", "dest": "/api/index.php" }
     ],
     "public": true,
-    "buildCommand": "vite build",
     "outputDirectory": "public",
     "env": {
         "DB_HOST": "1zoof.h.filess.io",
