@@ -36,8 +36,8 @@
    	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/css/bootstrap-datetimepicker.min.css">
    	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/flexslider.min.css">
     
-    	<link rel="stylesheet" href="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/css/icomoon.css?token=GHSAT0AAAAAADFPKWWNNE6AYRTCFELRATKA2CKZODQ">
-    	<link rel="stylesheet" href="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/css/style.css?token=GHSAT0AAAAAADFPKWWNQCDPS2VARKOIUFB42CKZM6Q">
+    	<link rel="stylesheet" href="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/css/icomoon.css">
+    	<link rel="stylesheet" href="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/css/style.css">
 
 
     	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
@@ -472,7 +472,7 @@
     	<script src="https://cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"></script>
     	<script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/jquery.flexslider-min.js"></script>
     
-    	<script src="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/js/main.js?token=GHSAT0AAAAAADFPKWWNCJYWXEA4KNQ754EM2CKZNVQ"></script>
+    	<script src="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/js/main.js"></script>
     
     	<script>
 		$(function () {
