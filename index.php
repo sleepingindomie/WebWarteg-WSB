@@ -160,7 +160,7 @@
 						</div>
 						<div class="fh5co-v-half">
 							<div class="fh5co-h-row-2 to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(soto.jpghttps://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/soto.jpg?token=GHSAT0AAAAAADFPKWWMWZGGOQVGCZBF7E6M2CKZFRA)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/soto.jpg?token=GHSAT0AAAAAADFPKWWMWZGGOQVGCZBF7E6M2CKZFRA)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-left">
 									<h2>Nasi Soto Ayam</h2>
 									<span class="pricing">Rp 10.000</span>
@@ -472,7 +472,7 @@
     	<script src="https://cdnjs.cloudflare.com/ajax/libs/stellar.js/0.6.2/jquery.stellar.min.js"></script>
     	<script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/jquery.flexslider-min.js"></script>
     
-    	<script src="raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/js/main.js?token=GHSAT0AAAAAADFPKWWNCJYWXEA4KNQ754EM2CKZNVQ"></script>
+    	<script src="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/js/main.js?token=GHSAT0AAAAAADFPKWWNCJYWXEA4KNQ754EM2CKZNVQ"></script>
     
     	<script>
 		$(function () {
