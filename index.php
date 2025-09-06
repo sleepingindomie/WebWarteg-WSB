@@ -31,19 +31,19 @@
 	<link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic|Merriweather:300,400italic,300italic,400,700italic' rel='stylesheet' type='text/css'>
 	
 	<!-- Animate.css -->
-	<link rel="stylesheet" href="./css/animate.css">
+	<link rel="stylesheet" href="css/animate.css">
 	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="./css/icomoon.css">
+	<link rel="stylesheet" href="css/icomoon.css">
 	<!-- Simple Line Icons -->
-	<link rel="stylesheet" href="./css/simple-line-icons.css">
+	<link rel="stylesheet" href="css/simple-line-icons.css">
 	<!-- Datetimepicker -->
-	<link rel="stylesheet" href="./css/bootstrap-datetimepicker.min.css">
+	<link rel="stylesheet" href="css/bootstrap-datetimepicker.min.css">
 	<!-- Flexslider -->
-	<link rel="stylesheet" href="./css/flexslider.css">
+	<link rel="stylesheet" href="css/flexslider.css">
 	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="./css/bootstrap.css">
+	<link rel="stylesheet" href="css/bootstrap.css">
 
-	<link rel="stylesheet" href="./css/style.css">
+	<link rel="stylesheet" href="css/style.css">
 
 
 	<!-- Modernizr JS -->
