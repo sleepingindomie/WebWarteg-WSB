@@ -74,7 +74,7 @@
 
     <link rel="stylesheet" href="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/css/icomoon.css?token=GHSAT0AAAAAADFPKWWNNE6AYRTCFELRATKA2CKZODQ">
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/sleepingindomie/WebWarteg-WSB/refs/heads/main/css/style.css?token=GHSAT0AAAAAADFPKWWNQCDPS2VARKOIUFB42CKZM6Q">
 
 
 
