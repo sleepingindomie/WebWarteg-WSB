@@ -256,7 +256,7 @@ Rp 3.000
 <li>
 <div class="fh5co-food-desc">
 <figure>
-<img src="jeruk.jpg" class="img-responsive" alt="">
+<img src="images/jeruk.jpg" class="img-responsive" alt="">
 </figure>
 <div>
 <h3>Es Jeruk</h3>
