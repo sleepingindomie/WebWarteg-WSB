@@ -1,19 +1,7 @@
 {
-    "version": 2,
-    "framework": null,
-    "functions": {
-        "api/index.php": { "runtime": "vercel-php@0.6.0" }
-    },
-    "routes": [
-        { "src": "/build/(.*)", "dest": "/public/build/" },
-        { "src": "/(.*)", "dest": "/api/index.php" }
-    ],
-    "public": true,
-    "outputDirectory": "public",
-    "env": {
-        "DB_HOST": "1zoof.h.filess.io",
-        "DB_PORT": "3306",
-        "DB_DATABASE": "wsb_generalday",
-        "DB_USERNAME": "wsb_generalday"
+  "functions": {
+    "api/*.php": {
+      "runtime": "vercel-php@0.7.4"
     }
+  }
 }
